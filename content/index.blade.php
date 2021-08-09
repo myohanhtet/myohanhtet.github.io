@@ -2,7 +2,9 @@
 
 @section('body')
 
-    <div class="welcome">
+
+
+    {{-- <div class="welcome">
         <div class="wrapper">
             <h1>Welcome Home!</h1>
             <span>{{ $siteDescription }}</span>
@@ -38,10 +40,10 @@
         https://medium.com/@WdeB/digital-product-design-principles-8bc9eb6c080c
 
         @endmarkdown
-    </div>
+    </div> --}}
 
-    <div class="right-side">
+    {{-- <div class="right-side">
         @include('_includes.sidebar')
-    </div>
+    </div> --}}
 
 @stop
