@@ -11,7 +11,7 @@ return [
      *
      */
 
-    'base_url' => '/',
+    'base_url' => '/public',
 
     /**
      * --------------------------------------------------------------------------
@@ -60,7 +60,7 @@ return [
      *
      */
 
-    'siteName' => 'Katana',
+    'siteName' => 'Myo Han Htet',
 
     'siteDescription' => 'Yet another awesome site.',
 ];
